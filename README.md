@@ -17,5 +17,5 @@ The analysis is presented such that the decision maker can easily navigate from 
 
 
 ## Data Sources: 
-The UN Site - http://www.un.org/en/sections/documents/general-assembly-resolutions/index.html
-UNBISNET - http://unbisnet.un.org:8080/ipac20/ipac.jsp?profile=voting&index=.VM
+* The UN Site - http://www.un.org/en/sections/documents/general-assembly-resolutions/index.html
+* UNBISNET - http://unbisnet.un.org:8080/ipac20/ipac.jsp?profile=voting&index=.VM
