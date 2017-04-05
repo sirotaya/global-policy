@@ -3,6 +3,7 @@
 * Related challenge: #UNGAviz textual analytics and data visualization challenge
 * Challenge ranking: 1st place
 * Demo: https://ungavizui.aqrashik.com/
+* License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 
 ## Summary
 "Global Policy" aims to provide a better understanding of the policy making process surrounding any particular topic by providing decision makers insights into three key areas.
